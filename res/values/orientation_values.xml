@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="orientation_values">
+		<item>ORIENTATION_UNDEFINED</item>
+		<item>ORIENTATION_NORMAL</item>
+		<item>ORIENTATION_FLIP_HORIZONTAL</item>
+		<item>ORIENTATION_ROTATE_180</item>
+		<item>ORIENTATION_FLIP_VERTICAL</item>
+		<item>ORIENTATION_TRANSPOSE</item>
+		<item>ORIENTATION_ROTATE_90</item>
+		<item>ORIENTATION_TRANSVERSE</item>
+		<item>ORIENTATION_ROTATE_270</item>
+    </string-array>
+</resources>
